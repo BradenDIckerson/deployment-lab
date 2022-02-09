@@ -5,15 +5,15 @@
 }
 
 body {
-    background-color: aquamarine;
+    background-color: rgb(99, 81, 5);
 }
 
 h1 {
-    color:bisque;
+    color:rgb(233, 186, 128);
 }
 
 p {
-    color:aliceblue;
+    color:rgb(255, 243, 190);
 }
 
 h2 {
