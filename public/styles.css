@@ -16,6 +16,7 @@ h1 {
     font-family: "Papyrus", Copperplate, fantasy;
     position:relative;
     left: 20cm;
+    bottom: -8ch;
     border:rgb(0, 0, 0)
 }
 
@@ -26,6 +27,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     position:relative;
     left: 20cm;
+    bottom: -12ch;
     border:rgb(0, 0, 0)
 }
 
@@ -36,6 +38,7 @@ h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     position:relative;
     left: 20cm;
+    bottom: -12ch;
     border:rgb(0, 0, 0)
 }
 
@@ -46,6 +49,7 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position:relative;
     left: 20cm;
+    bottom: -12ch;
     border:rgb(0, 0, 0)
 }
 
