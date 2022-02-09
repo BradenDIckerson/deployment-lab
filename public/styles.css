@@ -14,6 +14,8 @@ h1 {
     width: auto;
     color:rgb(233, 186, 128);
     font-family: "Papyrus", Copperplate, fantasy;
+    position:static;
+    border:rgb(255, 243, 190)
 }
 
 p {
