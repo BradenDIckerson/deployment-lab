@@ -10,16 +10,20 @@ body {
 
 h1 {
     color:rgb(233, 186, 128);
+    font-family: "Papyrus", Copperplate, fantasy;
 }
 
 p {
     color:rgb(255, 243, 190);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
     color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h3 {
     color:beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
